@@ -4,7 +4,7 @@ Hacker News is a React web app designed to allow users to easily search articles
 
 ## Installation
 
-To install Hacker News, simply install the dependencies in the local node_modules folder. This can be done with a basic `npm install` at the command line.
+To install Hacker News, simply type `npm install` at the command line.
 
 ## Usage
 
